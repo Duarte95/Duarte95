@@ -25,4 +25,4 @@ Soy un programador junior especializado en desarrollo front-end. Me encanta tran
 
 ## 📫 Conéctate conmigo:  
 - [LinkedIn](https://linkedin.com/in/ayduarte95)  
-- [Correo electrónico](mailto:----@gmail.com)  
+- [Correo electrónico](mailto:serviciosduarte95@gmail.com)  
