@@ -1,16 +1,28 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Antony Duarte  
+Soy un programador junior especializado en desarrollo front-end. Me encanta transformar ideas en interfaces web interactivas y funcionales.  
 
-<!--
-**Duarte95/Duarte95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tecnologías y habilidades:  
+- **Lenguajes:** HTML, CSS, JavaScript  
+- **Frameworks/Bibliotecas:** React  
+- **Herramientas:** Git, VS Code, MySQL Workbench
+- **Base de datos:** Conocimientos básicos de SQL
 
-Here are some ideas to get you started:
+## 🌟 Proyectos destacados:  
+1. **[Portafolio personal](https://github.com/Duarte95/portafolio)**  
+   Un sitio web responsivo para mostrar mis habilidades y proyectos.  
+   - *Tecnologías:* HTML, CSS, JavaScript  
+   - *Características:* Animaciones personalizadas y diseño adaptable (responsive).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+3. **[Calculadora básica](https://github.com/Duarte95/calculadora)**  
+   Una calculadora funcional creada desde cero.  
+   - *Tecnologías:* HTML, CSS, JavaScript  
+   - *Características:* Operaciones básicas y diseño intuitivo.  
+
+## 📈 Aprendiendo actualmente:  
+- Practicas avanzadas en JavaScript.
+- Prácticas avanzadas en React (Hooks, Context API).  
+- Animaciones con CSS y bibliotecas. 
+
+## 📫 Conéctate conmigo:  
+- [LinkedIn](https://linkedin.com/in/ayduarte95)  
+- [Correo electrónico](mailto:----@gmail.com)  
